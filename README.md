@@ -1,6 +1,6 @@
 # MovieMania Web Application
 
-![MovieMania](https://example.com/moviemania_screenshot.png)
+![MovieMania](https://moviemania-bice.vercel.app/movie-mania.png)
 
 MovieMania is a web application that allows users to explore information about movies, including details such as movie titles, release dates, genres, and more. Users can search for specific movies, browse through different genres, and discover new releases.
 
